@@ -1,0 +1,29 @@
+{
+  "AppLayout": {
+    "home": "হোম",
+    "logout": "লগ আউট",
+    "profile": "প্রোফাইল"
+  },
+  "HomePage": {
+    "title": "হোম"
+  },
+  "LocaleSwitcher": {
+    "bn": "বাংলা",
+    "en": "English",
+    "label": "ভাষা"
+  },
+  "LoginPage": {
+    "credentials": "ক্রেডেনশিয়াল: admin@example.com / password",
+    "description": "আপনার বিস্তারিত লিখুন।",
+    "email": "Email",
+    "invalidCredentials": "আপনার ক্রেডেনশিয়াল চেক করুন।",
+    "invalidEmail": "একটি বৈধ ইমেল ঠিকানা লিখুন।",
+    "invalidPassword": "একটি পাসওয়ার্ড লিখুন।",
+    "login": "সাইন ইন",
+    "password": "পাসওয়ার্ড",
+    "title": "আবার স্বাগতম"
+  },
+  "ProfilePage": {
+    "title": "প্রোফাইল"
+  }
+}
